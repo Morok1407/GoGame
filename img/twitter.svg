@@ -1,0 +1,21 @@
+<svg width="56.000000" height="56.000000" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_39_3506_dd" x="0.000000" y="0.000000" width="56.000000" height="56.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="-1" dy="-1"/>
+			<feGaussianBlur stdDeviation="2.66667"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.078 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_39_3506_dd)">
+		<rect id="Rectangle 124" x="9.000000" y="9.000000" rx="20.000000" width="40.000000" height="40.000000" fill="#FCD8CB" fill-opacity="1.000000"/>
+	</g>
+	<path id="Icon awesome-twitter" d="M37.94 24.92C37.95 25.1 37.95 25.28 37.95 25.45C37.97 26.99 37.67 28.51 37.09 29.93C36.51 31.35 35.65 32.64 34.56 33.72C33.48 34.81 32.19 35.67 30.77 36.25C29.35 36.83 27.83 37.13 26.29 37.12C24.06 37.12 21.87 36.48 20 35.27C20.32 35.31 20.65 35.33 20.99 35.32C22.83 35.33 24.62 34.71 26.08 33.57C25.22 33.56 24.39 33.28 23.7 32.77C23.02 32.26 22.5 31.55 22.24 30.73C22.5 30.77 22.76 30.8 23.01 30.8C23.38 30.8 23.74 30.75 24.09 30.66C23.16 30.47 22.33 29.96 21.73 29.23C21.13 28.5 20.81 27.58 20.81 26.63L20.81 26.58C21.38 26.9 22.01 27.08 22.66 27.1C21.79 26.52 21.17 25.63 20.94 24.61C20.7 23.6 20.86 22.52 21.39 21.62C22.42 22.89 23.71 23.92 25.16 24.66C26.62 25.4 28.21 25.82 29.84 25.91C29.78 25.6 29.74 25.28 29.74 24.97C29.74 24.15 29.99 23.34 30.46 22.66C30.92 21.98 31.57 21.46 32.34 21.16C33.1 20.86 33.94 20.79 34.74 20.97C35.55 21.15 36.28 21.57 36.84 22.17C37.76 21.99 38.64 21.65 39.44 21.18C39.13 22.12 38.49 22.93 37.64 23.44C38.45 23.34 39.25 23.12 40 22.79C39.44 23.61 38.74 24.33 37.94 24.92Z" fill="#446381" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>
